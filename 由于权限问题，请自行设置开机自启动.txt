@@ -1,0 +1,1 @@
+创建daka.exe的快捷方式到C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
