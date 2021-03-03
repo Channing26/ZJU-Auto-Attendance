@@ -1,1 +1,6 @@
 创建daka.exe的快捷方式到C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+
+
+1、创建daka.exe的快捷方式
+
+2、讲上述路径复制粘贴到文件资源管理器搜索框，找到这个目录，然后将快捷方式复制进去
